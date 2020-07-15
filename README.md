@@ -1,2 +1,2 @@
-# GeneratedInterface
-Sample Project to Demonstrate Xcode Generated Interfaces
+**GeneratedInterface**
+Sample project to show how Xcode produces Generated Interface Files for Objective-C and Swift Interoperatability. 
